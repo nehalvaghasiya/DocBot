@@ -109,11 +109,3 @@ def create_bot() -> None:
 
 st.title("DocBot - AI Document Query Chatbot")
 create_bot()
-
-
-
-# pip install chromadb==0.3.29
-# pip install pypd
-# pip install langchain
-# pip install tiktoken
-# if you’re FastAPI user, then you need to pip install fastapi==0.85.1
