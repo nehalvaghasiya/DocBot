@@ -91,9 +91,6 @@ Remember to replace `<your secret key>` with your actual OpenAI API Key.
 │   ├── streamlit.jpg
 ├── docs
 │   ├── 1706.03762.pdf
-├── data
-│   ├── chroma_db
-│   ├── index
 ├── .gitignore
 ├── chatbot.py
 ├── requirements.txt
